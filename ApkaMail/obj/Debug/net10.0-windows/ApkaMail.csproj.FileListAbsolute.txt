@@ -1,0 +1,16 @@
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\bin\Debug\net10.0-windows\ApkaMail.exe
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\bin\Debug\net10.0-windows\ApkaMail.deps.json
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\bin\Debug\net10.0-windows\ApkaMail.runtimeconfig.json
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\bin\Debug\net10.0-windows\ApkaMail.dll
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\bin\Debug\net10.0-windows\ApkaMail.pdb
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.Form1.resources
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.csproj.GenerateResource.cache
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.AssemblyInfoInputs.cache
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.AssemblyInfo.cs
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.csproj.CoreCompileInputs.cache
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.dll
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\refint\ApkaMail.dll
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.pdb
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ApkaMail.genruntimeconfig.cache
+C:\Users\dzgof\source\repos\ApkaMail\ApkaMail\obj\Debug\net10.0-windows\ref\ApkaMail.dll
